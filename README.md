@@ -177,7 +177,7 @@ En el segundo sprint las issues  que montaron en el git-lab faltaban subdivision
         ### Documentación técnica del proyecto
 
 
-        (![User-flow](./ReadmeImages/User-flow.jpg))
+        ![User-flow](./ReadmeImages/User-flow.jpg)
 
         **Ambiente de desarrollo**
  
@@ -222,7 +222,7 @@ En el segundo sprint las issues  que montaron en el git-lab faltaban subdivision
 
     **Diagrama de la base de datos**
 
-    (![BaseDeDatosArgenlombia](uploads/2c57d78d4ca873a09d0b815bddb6cb60/BaseDeDatosArgenlombia.png))
+    ![BaseDeDatosArgenlombia](./ReadmeImages/BaseDeDatosArgenlombia (1).png)
 
     **Infraestructura**
 
