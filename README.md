@@ -177,7 +177,7 @@ En el segundo sprint las issues  que montaron en el git-lab faltaban subdivision
         ### Documentación técnica del proyecto
 
 
-        (![User-flow](uploads/1e382bb5f10b7269b179fd9caae9ceae/User-flow.jpg))
+        (![User-flow](./ReadmeImages/User-flow.jpg))
 
         **Ambiente de desarrollo**
  
