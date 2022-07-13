@@ -222,7 +222,7 @@ En el segundo sprint las issues  que montaron en el git-lab faltaban subdivision
 
     **Diagrama de la base de datos**
 
-    ![BaseDeDatosArgenlombia](./ReadmeImages/BaseDeDatosArgenlombia (1).png)
+    ![BaseDeDatosArgenlombia](./ReadmeImages/BaseDeDatosArgenlombia.png)
 
     **Infraestructura**
 
@@ -233,7 +233,7 @@ En el segundo sprint las issues  que montaron en el git-lab faltaban subdivision
     **Estructura y Diagramas Infraestructura:**
 
     
-    (![Diagrama Base de Datos](uploads/c3bf97542f86acef6127c5bb5d1c239f/BocetoInfraProyecto_2.png))
+    ![Diagrama Base de Datos](./ReadmeImages//BocetoInfraProyecto_2.png)
 
     **Testing**
 
